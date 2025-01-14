@@ -1,4 +1,4 @@
-# Hello, I'm Kao-hsin LIN (aka boba-milktea) ✨
+# Hello, I'm Catherine Lin ✨
 
 Welcome to my GitHub profile! I am a passionate developer and a lifelong learner with a love for coding and problem-solving. Feel free to explore my repositories, and if you find something interesting, don't hesitate to reach out or contribute!
 
