@@ -1,6 +1,6 @@
 # Hello, I'm Catherine Lin ✨
 
-Welcome to my GitHub profile! I am a passionate developer and a lifelong learner with a love for coding and problem-solving. Feel free to explore my repositories, and if you find something interesting, don't hesitate to reach out or contribute!
+<img src="https://media.tenor.com/C-G3GF2Fm-YAAAAi/sabobatage-boba-card-game.gif" width="40" height="40" />Welcome to my GitHub profile! I am a passionate developer and a lifelong learner with a love for coding and problem-solving. Feel free to explore my repositories, and if you find something interesting, don't hesitate to reach out or contribute!
 
 ## 🚀 About Me
 
@@ -18,7 +18,7 @@ Here are some of the tools I use:
 - **Frameworks & Libraries**: React, Node.js, Bootstrap
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, GitHub, VSCode
-- **Collaboration**: Slack,Trello, Google Wrokplace
+- **Collaboration**: Slack, Trello, Google Workplace
 - **Graphic**: Canva, Adobe illustrator, Adobe Photoshop, Adobe InDesign
 
 ## 💬 Languages
