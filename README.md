@@ -43,6 +43,8 @@ The Clean Coder: A Code of Conduct for Professional Programmers - _Robert C. Mar
   <img width="46%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boba-milktea&layout=compact&hide=html,css&langs_count=10&theme=gruvbox&card_width=320" />
 </a>
 
+![snake gif](https://github.com/boba-milktea/boba-milktea/blob/output/github-snake-dark.svg)
+
 ## 📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/kaohsinlin/)
