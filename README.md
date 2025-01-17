@@ -52,4 +52,4 @@ The Clean Coder: A Code of Conduct for Professional Programmers - _Robert C. Mar
 
 Thanks for visiting my profile!🔥 Feel free to check out my repositories or get in touch if you have any questions.
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/boba-milktea/boba-milktea/blob/output/github-contribution-grid-snake.svg)
