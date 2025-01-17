@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Catherine ✨</h1>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=40&pause=1000&color=BF8930&background=427B5800&width=435&lines=Full-Stack+Developer;Woman+in+Technology;A+chocoholic!+%F0%9F%8D%AB%F0%9F%98%8A" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=36&pause=1000&color=BF8930&background=427B5800&width=435&lines=Full-Stack+Developer;Woman+in+Technology;A+chocoholic!+%F0%9F%8D%AB%F0%9F%98%8A" alt="Typing SVG" /></a>
     <br />
     <a href="mailto:catherine.idv@gmail.co">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
