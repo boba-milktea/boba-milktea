@@ -21,7 +21,7 @@
 
 ## 👩‍💻 About Me
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 - 💻 I’m focused on **Full-Stack Development**
 - 📚 I enjoy reading about **Web Development**
 - 🎯 My goal is to improve my skills and contribute to open-source projects.
