@@ -21,7 +21,7 @@
 
 ## 👩‍💻 About Me
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **JAVA**
 - 💻 I’m focused on **Full-Stack Development**
 - 📚 I enjoy reading about **Web Development**
 - 🎯 My goal is to improve my skills and contribute to open-source projects.
